@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=EEF0FF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=58&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman GitHub banner"/>
 
-**Design-minded developer. Building for the web.**
+**Clean code, calm interfaces.**
 
 ![Focus](https://img.shields.io/badge/Focus-Responsive_Web_UI-1E2350?style=flat-square&labelColor=0F1424)
 ![Studying](https://img.shields.io/badge/Studying-Software_Engineering_@_VU-1E2350?style=flat-square&labelColor=0F1424)
