@@ -1,49 +1,96 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101522,50:312E81,100:6D5ACF&height=150&section=header&text=Malaika%20Aiman&fontSize=40&fontColor=F4F2FF&fontAlignY=40&animation=fadeIn" width="100%" alt="Malaika Aiman"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101722,55:25364A,100:52677B&height=155&section=header&text=MALAIKA%20AIMAN&fontSize=38&fontColor:F0E8DA&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=11&descAlignY=72&descColor=D0D7DE" width="100%" alt="Malaika Aiman GitHub banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1100&color=A99BFF&center=true&vCenter=true&width=600&height=35&lines=Software+Engineering+Student;Frontend+Development;Building+responsive+web+experiences)](https://git.io/typing-svg)
+<br/>
 
-**Thoughtful design. Clean code. Responsive experiences.**
+**Design-minded developer. Building for the web.**
 
-[Portfolio](https://malaika-aiman.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/) · [GitHub](https://github.com/malaika-aiman)
+[Portfolio](https://malaika-aiman.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/malaika-aiman/) &nbsp;·&nbsp; [Email](mailto:YOUR_EMAIL@example.com)
 
 </div>
 
 ---
-
-<div align="center">
 
 ### About Me
 
-Software Engineering student at Virtual University, interested in frontend development and thoughtful web design. I enjoy building responsive websites, experimenting with layouts, and writing cleaner code.
+I'm a Software Engineering student at Virtual University with an interest in frontend development and thoughtful web design.
+
+- Focused on responsive, user-friendly websites
+- Exploring layouts, JavaScript, and cleaner code
+- Learning by building practical projects
 
 ### Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-25243A?style=flat-square&logo=html5&logoColor=E879A9)
-![CSS3](https://img.shields.io/badge/CSS3-25243A?style=flat-square&logo=css3&logoColor=A99BFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-25243A?style=flat-square&logo=javascript&logoColor=F0D77A)
-![C++](https://img.shields.io/badge/C++-25243A?style=flat-square&logo=cplusplus&logoColor=9CB8FF)
+<div align="center">
 
-### Selected Projects
+![HTML5](https://img.shields.io/badge/HTML5-17212D?style=flat-square&logo=html5&logoColor=D9B99B)
+![CSS3](https://img.shields.io/badge/CSS3-17212D?style=flat-square&logo=css3&logoColor=A8C0D6)
+![JavaScript](https://img.shields.io/badge/JavaScript-17212D?style=flat-square&logo=javascript&logoColor=E7D8A8)
+![C++](https://img.shields.io/badge/C%2B%2B-17212D?style=flat-square&logo=cplusplus&logoColor=B6CBE0)
+![Git](https://img.shields.io/badge/Git-17212D?style=flat-square&logo=git&logoColor=D9B99B)
+![GitHub](https://img.shields.io/badge/GitHub-17212D?style=flat-square&logo=github&logoColor=F0E8DA)
 
 </div>
 
-| Project | Description |
-|:---:|---|
-| [**Fitora ↗**](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html) | Fitness website · Responsive layouts |
-| [**Nestore ↗**](https://malaika-aiman.github.io/web-development-projects/Real%20Estate/nestore.html) | Real estate · Property presentation |
-| [**KicksX ↗**](https://malaika-aiman.github.io/web-development-projects/kicksx/kicksx.html) | Footwear website · Product-focused design |
+### Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 · Fitora**
+
+Fitness-themed website with a focus on responsive layouts and visual presentation.
+
+[View Project ↗](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html)
+
+</td>
+<td width="33%" valign="top">
+
+**02 · Nestore**
+
+Real estate website exploring property presentation and structured web layouts.
+
+[View Project ↗](https://malaika-aiman.github.io/web-development-projects/Real%20Estate/nestore.html)
+
+</td>
+<td width="33%" valign="top">
+
+**03 · KicksX**
+
+Footwear website focused on product displays and frontend design.
+
+[View Project ↗](https://malaika-aiman.github.io/web-development-projects/kicksx/kicksx.html)
+
+</td>
+</tr>
+</table>
+
+### GitHub Overview
 
 <div align="center">
 
-### Currently Growing
+<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
 
-Responsive design · JavaScript ✨ · Practical frontend projects
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=101722&title_color=D9C8AE&text_color=D5DEE8&icon_color=9DB5CC&ring_color=D9C8AE&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=101722&title_color=D9C8AE&text_color=D5DEE8" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=101722&ring=D9C8AE&fire=D9C8AE&currStreakLabel=D5DEE8&sideLabels=D5DEE8&currStreakNum=F0E8DA&sideNums=F0E8DA&dates=9AAABD" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-<sub>Software Engineering · Frontend Development</sub>
+<div align="center">
+
+[Portfolio](https://malaika-aiman.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/malaika-aiman) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/malaika-aiman/)
+
+<sub>Learning consistently. Building thoughtfully.</sub>
 
 </div>
+
