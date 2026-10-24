@@ -1,8 +1,6 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101522,50:29264F,100:51418C&height=155&section=header&text=MALAIKA%20AIMAN&fontSize=38&fontColor:F4F0FF&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=11&descAlignY=72&descColor:C8C0E8" width="100%" alt="Malaika Aiman GitHub banner"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,45:3B2A22,100:2F4A7A&height=155&section=header&text=MALAIKA%20AIMAN&fontSize=38&fontColor=F2E9DC&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=11&descAlignY=72&descColor=D9C7A8" width="100%" alt="Malaika Aiman GitHub banner"/>
 
 <br/>
 
@@ -27,12 +25,12 @@ I'm a Software Engineering student at Virtual University with an interest in fro
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-201E35?style=flat-square&logo=html5&logoColor=D8A1B8)
-![CSS3](https://img.shields.io/badge/CSS3-201E35?style=flat-square&logo=css3&logoColor=B8A8FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-201E35?style=flat-square&logo=javascript&logoColor=E8D9A8)
-![C++](https://img.shields.io/badge/C%2B%2B-201E35?style=flat-square&logo=cplusplus&logoColor=AFC6FF)
-![Git](https://img.shields.io/badge/Git-201E35?style=flat-square&logo=git&logoColor=D8A1B8)
-![GitHub](https://img.shields.io/badge/GitHub-201E35?style=flat-square&logo=github&logoColor=EAE5FF)
+![HTML5](https://img.shields.io/badge/HTML5-1E2F4F?style=flat-square&logo=html5&logoColor=E8D5B7)
+![CSS3](https://img.shields.io/badge/CSS3-1E2F4F?style=flat-square&logo=css3&logoColor=7FA0D4)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E2F4F?style=flat-square&logo=javascript&logoColor=D9C7A8)
+![C++](https://img.shields.io/badge/C%2B%2B-1E2F4F?style=flat-square&logo=cplusplus&logoColor=7FA0D4)
+![Git](https://img.shields.io/badge/Git-1E2F4F?style=flat-square&logo=git&logoColor=E8D5B7)
+![GitHub](https://img.shields.io/badge/GitHub-1E2F4F?style=flat-square&logo=github&logoColor=F2E9DC)
 
 </div>
 
@@ -76,13 +74,13 @@ Footwear website focused on product displays and frontend design.
 
 <!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=101722&title_color=D9C8AE&text_color=D5DEE8&icon_color=9DB5CC&ring_color=D9C8AE&include_all_commits=true" alt="GitHub statistics"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=1A120E&title_color=E8D5B7&text_color=D9CBB8&icon_color=7FA0D4&ring_color=E8D5B7&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=101722&title_color=D9C8AE&text_color=D5DEE8" alt="Most used languages"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=1A120E&title_color=E8D5B7&text_color=D9CBB8" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=101722&ring=D9C8AE&fire=D9C8AE&currStreakLabel=D5DEE8&sideLabels=D5DEE8&currStreakNum=F0E8DA&sideNums=F0E8DA&dates=9AAABD" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=1A120E&ring=E8D5B7&fire=7FA0D4&currStreakLabel=D9CBB8&sideLabels=D9CBB8&currStreakNum=F2E9DC&sideNums=F2E9DC&dates=A89A87" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -95,4 +93,3 @@ Footwear website focused on product displays and frontend design.
 <sub>Learning consistently. Building thoughtfully.</sub>
 
 </div>
-
