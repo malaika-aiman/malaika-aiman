@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101722,55:25364A,100:52677B&height=155&section=header&text=MALAIKA%20AIMAN&fontSize=38&fontColor:F0E8DA&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=11&descAlignY=72&descColor=D0D7DE" width="100%" alt="Malaika Aiman GitHub banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101522,50:29264F,100:51418C&height=155&section=header&text=MALAIKA%20AIMAN&fontSize=38&fontColor:F4F0FF&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=11&descAlignY=72&descColor:C8C0E8" width="100%" alt="Malaika Aiman GitHub banner"/>
+
 
 <br/>
 
@@ -22,14 +24,15 @@ I'm a Software Engineering student at Virtual University with an interest in fro
 
 ### Tech Stack
 
+
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-17212D?style=flat-square&logo=html5&logoColor=D9B99B)
-![CSS3](https://img.shields.io/badge/CSS3-17212D?style=flat-square&logo=css3&logoColor=A8C0D6)
-![JavaScript](https://img.shields.io/badge/JavaScript-17212D?style=flat-square&logo=javascript&logoColor=E7D8A8)
-![C++](https://img.shields.io/badge/C%2B%2B-17212D?style=flat-square&logo=cplusplus&logoColor=B6CBE0)
-![Git](https://img.shields.io/badge/Git-17212D?style=flat-square&logo=git&logoColor=D9B99B)
-![GitHub](https://img.shields.io/badge/GitHub-17212D?style=flat-square&logo=github&logoColor=F0E8DA)
+![HTML5](https://img.shields.io/badge/HTML5-201E35?style=flat-square&logo=html5&logoColor=D8A1B8)
+![CSS3](https://img.shields.io/badge/CSS3-201E35?style=flat-square&logo=css3&logoColor=B8A8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-201E35?style=flat-square&logo=javascript&logoColor=E8D9A8)
+![C++](https://img.shields.io/badge/C%2B%2B-201E35?style=flat-square&logo=cplusplus&logoColor=AFC6FF)
+![Git](https://img.shields.io/badge/Git-201E35?style=flat-square&logo=git&logoColor=D8A1B8)
+![GitHub](https://img.shields.io/badge/GitHub-201E35?style=flat-square&logo=github&logoColor=EAE5FF)
 
 </div>
 
