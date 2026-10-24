@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101722,50:25364A,100:52677B&height=155&section=header&text=MALAIKA%20AIMAN&fontSize=38&fontColor:F0E8DA&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=11&descAlignY=72&descColor=D9C8AE" width="100%" alt="Malaika Aiman GitHub banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101722,55:25364A,100:52677B&height=155&section=header&text=MALAIKA%20AIMAN&fontSize=38&fontColor:F0E8DA&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=11&descAlignY=72&descColor=D0D7DE" width="100%" alt="Malaika Aiman GitHub banner"/>
 
 <br/>
 
@@ -24,12 +24,12 @@ I'm a Software Engineering student at Virtual University with an interest in fro
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-101722?style=flat-square&logo=html5&logoColor=D9B99B)
-![CSS3](https://img.shields.io/badge/CSS3-101722?style=flat-square&logo=css3&logoColor=A8C0D6)
-![JavaScript](https://img.shields.io/badge/JavaScript-101722?style=flat-square&logo=javascript&logoColor=E7D8A8)
-![C++](https://img.shields.io/badge/C%2B%2B-101722?style=flat-square&logo=cplusplus&logoColor=B6CBE0)
-![Git](https://img.shields.io/badge/Git-101722?style=flat-square&logo=git&logoColor=D9B99B)
-![GitHub](https://img.shields.io/badge/GitHub-101722?style=flat-square&logo=github&logoColor=F0E8DA)
+![HTML5](https://img.shields.io/badge/HTML5-17212D?style=flat-square&logo=html5&logoColor=D9B99B)
+![CSS3](https://img.shields.io/badge/CSS3-17212D?style=flat-square&logo=css3&logoColor=A8C0D6)
+![JavaScript](https://img.shields.io/badge/JavaScript-17212D?style=flat-square&logo=javascript&logoColor=E7D8A8)
+![C++](https://img.shields.io/badge/C%2B%2B-17212D?style=flat-square&logo=cplusplus&logoColor=B6CBE0)
+![Git](https://img.shields.io/badge/Git-17212D?style=flat-square&logo=git&logoColor=D9B99B)
+![GitHub](https://img.shields.io/badge/GitHub-17212D?style=flat-square&logo=github&logoColor=F0E8DA)
 
 </div>
 
@@ -41,7 +41,7 @@ I'm a Software Engineering student at Virtual University with an interest in fro
 
 **01 · Fitora**
 
-Fitness-themed website focused on responsive layouts and visual presentation.
+Fitness-themed website with a focus on responsive layouts and visual presentation.
 
 [View Project ↗](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html)
 
@@ -71,13 +71,15 @@ Footwear website focused on product displays and frontend design.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mahiii9-hub&show_icons=true&hide_border=true&bg_color=101722&title_color=D9C8AE&text_color=D5DEE8&icon_color=9DB5CC&ring_color=D9C8AE&include_all_commits=true" alt="GitHub statistics"/>
+<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiii9-hub&layout=compact&hide_border=true&bg_color=101722&title_color=D9C8AE&text_color=D5DEE8" alt="Most used languages"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=101722&title_color=D9C8AE&text_color=D5DEE8&icon_color=9DB5CC&ring_color=D9C8AE&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=101722&title_color=D9C8AE&text_color=D5DEE8" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mahiii9-hub&hide_border=true&background=101722&ring=D9C8AE&fire=D9C8AE&currStreakLabel=D5DEE8&sideLabels=D5DEE8&currStreakNum=F0E8DA&sideNums=F0E8DA&dates=9AAABD" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=101722&ring=D9C8AE&fire=D9C8AE&currStreakLabel=D5DEE8&sideLabels=D5DEE8&currStreakNum=F0E8DA&sideNums=F0E8DA&dates=9AAABD" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -85,8 +87,9 @@ Footwear website focused on product displays and frontend design.
 
 <div align="center">
 
-[Portfolio](https://malaika-aiman.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/mahiii9-hub) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/malaika-aiman/)
+[Portfolio](https://malaika-aiman.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/malaika-aiman) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/malaika-aiman/)
 
 <sub>Learning consistently. Building thoughtfully.</sub>
 
 </div>
+yeah meri readme file h is yeah perfect h bas iska
