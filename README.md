@@ -2,13 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=EEF0FF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=58&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman GitHub banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1400&color=B9A8FF&center=true&vCenter=true&width=560&height=30&lines=Design-minded+developer.;Clean+code%2C+calm+interfaces.;Turning+ideas+into+responsive+websites." alt="Typing tagline"/>
-
-<br/>
+**Design-minded developer. Building for the web.**
 
 ![Focus](https://img.shields.io/badge/Focus-Responsive_Web_UI-1E2350?style=flat-square&labelColor=0F1424)
 ![Studying](https://img.shields.io/badge/Studying-Software_Engineering_@_VU-1E2350?style=flat-square&labelColor=0F1424)
-![Exploring](https://img.shields.io/badge/Exploring-JavaScript-1E2350?style=flat-square&labelColor=0F1424)
 ![Based in](https://img.shields.io/badge/Based_in-Rawalpindi,_PK-1E2350?style=flat-square&labelColor=0F1424)
 
 <br/>
@@ -55,7 +52,7 @@ Fitness-themed website with a focus on responsive layouts and visual presentatio
 </td>
 <td width="33%" valign="top">
 
-**02 · Nestore**
+**02 · Nestora**
 
 Real estate website exploring property presentation and structured web layouts.
 
@@ -81,10 +78,6 @@ Footwear website focused on product displays and frontend design.
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0&icon_color=8FA8E0&ring_color=9D8BE0&include_all_commits=true" alt="GitHub statistics"/>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1424&ring=9D8BE0&fire=8FA8E0&currStreakLabel=D5DDF0&sideLabels=D5DDF0&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9AA3C4" alt="GitHub contribution streak"/>
 
 </div>
 
