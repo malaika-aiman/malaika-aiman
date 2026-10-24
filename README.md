@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,50:1E3358,100:3A5A8C&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=E6EEFA&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=60&descColor=B8CAE8&animation=fadeIn" width="100%" alt="Malaika Aiman GitHub banner"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=EEF0FF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=58&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman GitHub banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1400&color=9DB8E0&center=true&vCenter=true&width=520&height=30&lines=Design-minded+developer.;Building+for+the+web.;Learning+consistently.+Building+thoughtfully." alt="Typing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1400&color=B9A8FF&center=true&vCenter=true&width=560&height=30&lines=Design-minded+developer.;Clean+code%2C+calm+interfaces.;Turning+ideas+into+responsive+websites." alt="Typing tagline"/>
 
 <br/>
 
-![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-1E3358?style=flat-square&logo=html5&logoColor=B8CAE8)
-![Web Design](https://img.shields.io/badge/Web_Design-1E3358?style=flat-square&logo=figma&logoColor=9DB8E0)
-![Always Learning](https://img.shields.io/badge/Always_Learning-1E3358?style=flat-square&logo=github&logoColor=E6EEFA)
+![Focus](https://img.shields.io/badge/Focus-Responsive_Web_UI-1E2350?style=flat-square&labelColor=0F1424)
+![Studying](https://img.shields.io/badge/Studying-Software_Engineering_@_VU-1E2350?style=flat-square&labelColor=0F1424)
+![Exploring](https://img.shields.io/badge/Exploring-JavaScript-1E2350?style=flat-square&labelColor=0F1424)
+![Based in](https://img.shields.io/badge/Based_in-Rawalpindi,_PK-1E2350?style=flat-square&labelColor=0F1424)
 
 <br/>
 
@@ -30,12 +31,12 @@ I'm a Software Engineering student at Virtual University with an interest in fro
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-1E3358?style=flat-square&logo=html5&logoColor=B8CAE8)
-![CSS3](https://img.shields.io/badge/CSS3-1E3358?style=flat-square&logo=css3&logoColor=9DB8E0)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E3358?style=flat-square&logo=javascript&logoColor=6F8FC4)
-![C++](https://img.shields.io/badge/C%2B%2B-1E3358?style=flat-square&logo=cplusplus&logoColor=9DB8E0)
-![Git](https://img.shields.io/badge/Git-1E3358?style=flat-square&logo=git&logoColor=B8CAE8)
-![GitHub](https://img.shields.io/badge/GitHub-1E3358?style=flat-square&logo=github&logoColor=E6EEFA)
+![HTML5](https://img.shields.io/badge/HTML5-1E2350?style=flat-square&logo=html5&logoColor=C4B5F5)
+![CSS3](https://img.shields.io/badge/CSS3-1E2350?style=flat-square&logo=css3&logoColor=8FA8E0)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E2350?style=flat-square&logo=javascript&logoColor=B9A8FF)
+![C++](https://img.shields.io/badge/C%2B%2B-1E2350?style=flat-square&logo=cplusplus&logoColor=8FA8E0)
+![Git](https://img.shields.io/badge/Git-1E2350?style=flat-square&logo=git&logoColor=C4B5F5)
+![GitHub](https://img.shields.io/badge/GitHub-1E2350?style=flat-square&logo=github&logoColor=EEF0FF)
 
 </div>
 
@@ -77,13 +78,13 @@ Footwear website focused on product displays and frontend design.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=9DB8E0&text_color=C9D8EF&icon_color=6F8FC4&ring_color=9DB8E0&include_all_commits=true" alt="GitHub statistics"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0&icon_color=8FA8E0&ring_color=9D8BE0&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=0F1B33&title_color=9DB8E0&text_color=C9D8EF" alt="Most used languages"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=9DB8E0&fire=6F8FC4&currStreakLabel=C9D8EF&sideLabels=C9D8EF&currStreakNum=E6EEFA&sideNums=E6EEFA&dates=8FA6C8" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1424&ring=9D8BE0&fire=8FA8E0&currStreakLabel=D5DDF0&sideLabels=D5DDF0&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9AA3C4" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -97,4 +98,4 @@ Footwear website focused on product displays and frontend design.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,50:1E3358,100:3A5A8C&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=120&section=footer" width="100%" alt=""/>
