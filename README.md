@@ -1,30 +1,31 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=EEF0FF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=58&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman GitHub banner"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=EEF0FF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=58&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman — Software Engineering and Frontend Development"/>
 
-**Clean code, calm interfaces.**
+### Clean code, calm interfaces.
+
+Building responsive websites. Learning by creating.
+
+[Portfolio](https://malaika-aiman.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/) · [Email](mailto:malaikaaiman.offical@gmail.com)
 
 ![Focus](https://img.shields.io/badge/Focus-Responsive_Web_UI-1E2350?style=flat-square&labelColor=0F1424)
-![Studying](https://img.shields.io/badge/Studying-Software_Engineering_@_VU-1E2350?style=flat-square&labelColor=0F1424)
-![Based in](https://img.shields.io/badge/Based_in-Rawalpindi,_PK-1E2350?style=flat-square&labelColor=0F1424)
-
-<br/>
-
-[Portfolio](https://malaika-aiman.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/malaika-aiman/) &nbsp;·&nbsp; [Email](mailto:malaikaaiman.offical@gmail.com)
+![Studying](https://img.shields.io/badge/Studying-Software_Engineering_at_VU-1E2350?style=flat-square&labelColor=0F1424)
 
 </div>
 
 ---
 
-### About Me
+## About Me
 
-I'm a Software Engineering student at Virtual University with an interest in frontend development and thoughtful web design.
+I'm a Software Engineering student at Virtual University, Pakistan, learning to build clean, responsive and user-friendly websites.
 
-- Focused on responsive, user-friendly websites
-- Exploring layouts, JavaScript, and cleaner code
-- Learning by building practical projects
+- **Frontend:** HTML, CSS and JavaScript
+- **Programming:** C++ and Object-Oriented Programming (OOP)
+- **Workflow:** Git, GitHub and project-based learning
+- **Goal:** Improve my development skills by building practical projects.
 
-### Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -37,47 +38,61 @@ I'm a Software Engineering student at Virtual University with an interest in fro
 
 </div>
 
-### Featured Projects
+## Featured Projects
+
+Three frontend projects I'm building and improving.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**01 · Fitora**
+### 01. Fitora
 
-Fitness-themed website with a focus on responsive layouts and visual presentation.
+**Fitness Website**
 
-[View Project ↗](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html)
+A fitness-themed website with a focus on visual presentation and responsive layout.
 
-</td>
-<td width="33%" valign="top">
+**Explore:** Page layout and styling
 
-**02 · Nestora**
-
-Real estate website exploring property presentation and structured web layouts.
-
-[View Project ↗](https://malaika-aiman.github.io/web-development-projects/Real%20Estate/nestore.html)
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html)
 
 </td>
 <td width="33%" valign="top">
 
-**03 · KicksX**
+### 02. Nestore
 
-Footwear website focused on product displays and frontend design.
+**Real Estate Website**
 
-[View Project ↗](https://malaika-aiman.github.io/web-development-projects/kicksx/kicksx.html)
+A property-focused website designed to present real estate content in a structured layout.
+
+**Explore:** Property presentation and page design
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/Real%20Estate/nestore.html)
+
+</td>
+<td width="33%" valign="top">
+
+### 03. KicksX
+
+**Footwear Website**
+
+A footwear-themed website focused on product presentation and frontend design.
+
+**Explore:** Product display and visual layout
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/kicksx/kicksx.html)
 
 </td>
 </tr>
 </table>
 
-### GitHub Overview
+## GitHub Overview
 
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0&icon_color=8FA8E0&ring_color=9D8BE0&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0" alt="Most used languages"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0" alt="Most used programming languages"/>
 
 </div>
 
@@ -85,10 +100,8 @@ Footwear website focused on product displays and frontend design.
 
 <div align="center">
 
-[Portfolio](https://malaika-aiman.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/malaika-aiman) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/malaika-aiman/)
+[Portfolio](https://malaika-aiman.vercel.app/) · [GitHub](https://github.com/malaika-aiman) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/)
 
-<sub>Learning consistently. Building thoughtfully.</sub>
+*Learning consistently. Building thoughtfully.*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=120&section=footer" width="100%" alt=""/>
