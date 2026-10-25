@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=EEF0FF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=58&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman — Software Engineering and Frontend Development"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=EEF0FF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=58&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman GitHub banner"/>
 
 ### Clean code, calm interfaces.
 
@@ -18,12 +18,14 @@ Building responsive websites. Learning by creating.
 
 ## About Me
 
-I'm a Software Engineering student at Virtual University, Pakistan, learning to build clean, responsive and user-friendly websites.
+I'm a Software Engineering student at Virtual University, Pakistan, interested in frontend development and thoughtful web design.
 
 - **Frontend:** HTML, CSS and JavaScript
 - **Programming:** C++ and Object-Oriented Programming (OOP)
-- **Workflow:** Git, GitHub and project-based learning
-- **Goal:** Improve my development skills by building practical projects.
+- **Tools:** Git and GitHub
+- **Learning through:** Practical projects and continuous improvement
+
+My goal is to build responsive, user-friendly websites while strengthening my programming and problem-solving skills.
 
 ## Tech Stack
 
@@ -40,7 +42,7 @@ I'm a Software Engineering student at Virtual University, Pakistan, learning to 
 
 ## Featured Projects
 
-Three frontend projects I'm building and improving.
+A selection of my frontend projects, exploring different website layouts and visual experiences.
 
 <table>
 <tr>
@@ -50,9 +52,10 @@ Three frontend projects I'm building and improving.
 
 **Fitness Website**
 
-A fitness-themed website with a focus on visual presentation and responsive layout.
+A fitness-themed website focused on visual presentation and page layout.
 
-**Explore:** Page layout and styling
+- Fitness-inspired design
+- Structured website layout
 
 [View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html)
 
@@ -63,9 +66,10 @@ A fitness-themed website with a focus on visual presentation and responsive layo
 
 **Real Estate Website**
 
-A property-focused website designed to present real estate content in a structured layout.
+A real estate website designed to present property-related content.
 
-**Explore:** Property presentation and page design
+- Property-focused presentation
+- Structured page layout
 
 [View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/Real%20Estate/nestore.html)
 
@@ -76,9 +80,10 @@ A property-focused website designed to present real estate content in a structur
 
 **Footwear Website**
 
-A footwear-themed website focused on product presentation and frontend design.
+A footwear-themed website focused on product presentation.
 
-**Explore:** Product display and visual layout
+- Footwear product displays
+- Visual frontend design
 
 [View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/kicksx/kicksx.html)
 
@@ -90,9 +95,7 @@ A footwear-themed website focused on product presentation and frontend design.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0&icon_color=8FA8E0&ring_color=9D8BE0&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0" alt="Most used programming languages"/>
 
 </div>
 
