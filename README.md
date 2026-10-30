@@ -91,14 +91,6 @@ A footwear-themed website focused on product presentation.
 </tr>
 </table>
 
-## GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=malaika-aiman&layout=compact&langs_count=6&hide_border=true&bg_color=0F1424&title_color=C4B5F5&text_color=D5DDF0" alt="Most Used Languages"/>
-
-</div>
-
 ---
 
 <div align="center">
