@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=175&section=header&text=MALAIKA%20AIMAN&fontSize=42&fontColor=EEF0FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=60&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1B33,100:5B3FA0&height=155&section=header&text=MALAIKA%20AIMAN&fontSize=40&fontColor=EEF0FF&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=65&descColor=C4B5F5" width="100%" alt="Malaika Aiman"/>
 
 **Frontend Developer | Software Engineering Student**
 
@@ -35,29 +35,37 @@ Software Engineering student at Virtual University, Pakistan, focused on fronten
 <tr>
 <td width="33%" valign="top">
 
-**FITORA**
-
-Fitness website featuring a structured and responsive interface.
-
-[Explore Project ↗](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html)
-
-</td>
-<td width="33%" valign="top">
-
 **NESTORE**
 
-Real estate website focused on clean layouts and property presentation.
+<img src="assets/nestore.jpg" width="100%" alt="Nestore Website"/>
 
-[Explore Project ↗](https://malaika-aiman.github.io/web-development-projects/Real%20Estate/nestore.html)
+Real estate website featuring clean layouts and modern property presentation.
+
+[Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html)
 
 </td>
+
 <td width="33%" valign="top">
 
-**KICKSX**
+**BLUSHUP**
 
-Footwear website exploring product displays and modern visual design.
+<img src="assets/blushup.jpg" width="100%" alt="BlushUp Website"/>
 
-[Explore Project ↗](https://malaika-aiman.github.io/web-development-projects/kicksx/kicksx.html)
+Beauty studio website with an elegant visual identity and service-focused design.
+
+[Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html)
+
+</td>
+
+<td width="33%" valign="top">
+
+**BREW & BLOOM**
+
+<img src="assets/brew-bloom.jpg" width="100%" alt="Brew and Bloom Website"/>
+
+Coffee shop website featuring a warm aesthetic and modern layout.
+
+[Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html)
 
 </td>
 </tr>
