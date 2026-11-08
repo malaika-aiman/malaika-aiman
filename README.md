@@ -1,93 +1,52 @@
 
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=230&section=header&text=MALAIKA%20AIMAN&fontSize=46&fontColor=EEF0FF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=14&descAlignY=58&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman GitHub banner"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=200&section=header&text=MALAIKA%20AIMAN&fontSize=44&fontColor=EEF0FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPER&descSize=13&descAlignY=60&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman"/>
 
-### Clean code. Thoughtful design. Continuous growth.
+**Frontend Development | Software Engineering Student**
 
-Building responsive web experiences through practical projects.
+I build responsive websites with a focus on clean interfaces, practical functionality, and thoughtful design.
 
 [Portfolio](https://malaika-aiman.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/) · [Email](mailto:malaikaaiman.offical@gmail.com)
-
-![Focus](https://img.shields.io/badge/Focus-Frontend_Development-1E2350?style=flat-square&labelColor=0F1424)
-![Studying](https://img.shields.io/badge/Studying-Software_Engineering_at_VU-1E2350?style=flat-square&labelColor=0F1424)
 
 </div>
 
 ---
 
-## About Me
+### About
 
-I'm a Software Engineering student at Virtual University, Pakistan, with an interest in frontend development and modern web design.
+Software Engineering student at Virtual University, Pakistan, developing skills in frontend development and programming through practical projects.
 
-- **Frontend Development:** HTML, CSS, JavaScript
-- **Programming:** C++ and Object-Oriented Programming
-- **Tools:** Git and GitHub
-- **Approach:** Learning through hands-on projects and experimentation
+**Currently focused on:** JavaScript, responsive web development, C++ and Object-Oriented Programming.
 
-I enjoy turning ideas into functional, responsive, and user-friendly web experiences while continuously improving my technical skills.
+### Technologies
 
-## Tech Stack
+<p>
+<img src="https://img.shields.io/badge/HTML5-0F1B33?style=flat-square&logo=html5&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/CSS3-0F1B33?style=flat-square&logo=css3&logoColor=8FA8E0"/>
+<img src="https://img.shields.io/badge/JavaScript-0F1B33?style=flat-square&logo=javascript&logoColor=B9A8FF"/>
+<img src="https://img.shields.io/badge/C++-0F1B33?style=flat-square&logo=cplusplus&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/Git-0F1B33?style=flat-square&logo=git&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/GitHub-0F1B33?style=flat-square&logo=github&logoColor=EEF0FF"/>
+</p>
 
-**Frontend Development**
+### Selected Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-1E2350?style=flat-square&logo=html5&logoColor=C4B5F5)
-![CSS3](https://img.shields.io/badge/CSS3-1E2350?style=flat-square&logo=css3&logoColor=8FA8E0)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E2350?style=flat-square&logo=javascript&logoColor=B9A8FF)
+| Project | Description | Live Preview |
+|:--|:--|:--|
+| **FITORA** | Fitness website with a structured, responsive interface. | [View ↗](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html) |
+| **NESTORE** | Real estate website focused on property presentation. | [View ↗](https://malaika-aiman.github.io/web-development-projects/Real%20Estate/nestore.html) |
+| **KICKSX** | Footwear website exploring product layouts and visual design. | [View ↗](https://malaika-aiman.github.io/web-development-projects/kicksx/kicksx.html) |
 
-**Programming**
+### GitHub Activity
 
-![C++](https://img.shields.io/badge/C%2B%2B-1E2350?style=flat-square&logo=cplusplus&logoColor=8FA8E0)
+<div align="center">
 
-**Tools & Version Control**
+<img src="https://github-readme-stats.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=C4B5F5&text_color=EEF0FF&icon_color=8FA8E0" height="155" alt="GitHub Statistics"/>
 
-![Git](https://img.shields.io/badge/Git-1E2350?style=flat-square&logo=git&logoColor=C4B5F5)
-![GitHub](https://img.shields.io/badge/GitHub-1E2350?style=flat-square&logo=github&logoColor=EEF0FF)
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=5B3FA0&fire=C4B5F5&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" height="155" alt="GitHub Contribution Streak"/>
 
-## Featured Projects
-
-A selection of frontend projects built to explore website structure, responsive layouts, and visual design.
-
-### 01. FITORA
-**Fitness Website**
-
-A fitness-themed website with a structured layout and visual-focused interface.
-
-- Fitness-inspired design
-- Organized content sections
-
-[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/FITORA/index.html)
-
-### 02. NESTORE
-**Real Estate Website**
-
-A property-focused website designed to present real estate content through a clean interface.
-
-- Property presentation
-- Structured page layout
-
-[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/Real%20Estate/nestore.html)
-
-### 03. KICKSX
-**Footwear Website**
-
-A footwear website exploring product presentation and frontend styling.
-
-- Product-focused interface
-- Visual layout and styling
-
-[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/kicksx/kicksx.html)
-
----
-
-## Currently Learning
-
-- Improving JavaScript fundamentals
-- Strengthening Object-Oriented Programming concepts
-- Building more interactive frontend projects
-- Exploring better UI/UX practices
+</div>
 
 ---
 
@@ -95,6 +54,6 @@ A footwear website exploring product presentation and frontend styling.
 
 [Portfolio](https://malaika-aiman.vercel.app/) · [GitHub](https://github.com/malaika-aiman) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/)
 
-*Learning consistently. Building thoughtfully.*
+*Learning. Building. Improving.*
 
 </div>
