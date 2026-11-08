@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F1B33,50:2A2F6B,100:5B3FA0&height=175&section=header&text=MALAIKA%20AIMAN&fontSize=42&fontColor=EEF0FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=60&descColor=C4B5F5" width="100%" alt="Malaika Aiman"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1B33,100:5B3FA0&height=150&section=header&text=MALAIKA%20AIMAN&fontSize=42&fontColor=EEF0FF&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=65&descColor=C4B5F5" width="100%" alt="Malaika Aiman"/>
 
 **Frontend Developer | Software Engineering Student**
 
@@ -37,39 +37,25 @@ Software Engineering student at Virtual University, Pakistan, focused on fronten
 
 **NESTORE**
 
-<a href="https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html">
-<img src="assets/nestore.jpg" width="100%" alt="Nestore"/>
-</a>
-
-Real estate website featuring modern layouts and property presentation.
+Real estate website focused on clean layouts and property presentation.
 
 [Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html)
 
 </td>
-
 <td width="33%" valign="top">
 
 **BLUSHUP**
 
-<a href="https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html">
-<img src="assets/blushup.jpg" width="100%" alt="BlushUp"/>
-</a>
-
-Beauty studio website with an elegant visual identity.
+Beauty studio website featuring an elegant visual identity and service-focused design.
 
 [Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html)
 
 </td>
-
 <td width="33%" valign="top">
 
 **BREW & BLOOM**
 
-<a href="https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html">
-<img src="assets/brew-bloom.jpg" width="100%" alt="Brew and Bloom"/>
-</a>
-
-Coffee shop website featuring a warm and modern design.
+Coffee shop website with a warm aesthetic and modern layout.
 
 [Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html)
 
@@ -80,13 +66,16 @@ Coffee shop website featuring a warm and modern design.
 ### GitHub Overview
 
 <div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=C4B5F5&text_color=EEF0FF&icon_color=8FA8E0" width="85%" alt="GitHub Statistics"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=C4B5F5&fire=8FA8E0&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" width="85%" alt="GitHub Streak"/>
-
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=C4B5F5&text_color=EEF0FF&icon_color=8FA8E0" width="100%" alt="GitHub Statistics"/>
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=C4B5F5&fire=8FA8E0&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" width="100%" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
