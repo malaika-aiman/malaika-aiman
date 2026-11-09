@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1B33,100:5B3FA0&height=150&section=header&text=MALAIKA%20AIMAN&fontSize=42&fontColor=EEF0FF&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=65&descColor=C4B5F5" width="100%" alt="Malaika Aiman"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,45:2A2F6B,100:5B3FA0&height=190&section=header&text=MALAIKA%20AIMAN&fontSize=43&fontColor=EEF0FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=59&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman"/>
 
 **Frontend Developer | Software Engineering Student**
 
@@ -15,7 +15,7 @@ Building responsive websites with clean interfaces and practical functionality.
 
 ### About
 
-Software Engineering student at Virtual University, Pakistan, focused on frontend development and building practical web projects.
+Software Engineering student at Virtual University, Pakistan, focused on frontend development, programming and creating practical web experiences.
 
 **Currently exploring:** JavaScript · Responsive Design · C++ · OOP
 
@@ -36,29 +36,53 @@ Software Engineering student at Virtual University, Pakistan, focused on fronten
 <tr>
 <td width="33%" valign="top">
 
-**NESTORE**
+<div align="center">
 
-Real estate website focused on clean layouts and property presentation.
+**01 / NESTORE**
 
-[Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html)
+<sub>REAL ESTATE</sub>
+
+</div>
+
+A modern real estate website featuring structured property presentation and a clean interface.
+
+**Focus:** Layout · UI Design
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html)
 
 </td>
 <td width="33%" valign="top">
 
-**BLUSHUP**
+<div align="center">
 
-Beauty studio website featuring an elegant visual identity and service-focused design.
+**02 / BLUSHUP**
 
-[Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html)
+<sub>BEAUTY STUDIO</sub>
+
+</div>
+
+An elegant beauty studio website with a soft visual identity and service-focused navigation.
+
+**Focus:** Visual Design · UI
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html)
 
 </td>
 <td width="33%" valign="top">
 
-**BREW & BLOOM**
+<div align="center">
 
-Coffee shop website with a warm aesthetic and modern layout.
+**03 / BREW & BLOOM**
 
-[Live Preview ↗](https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html)
+<sub>COFFEE SHOP</sub>
+
+</div>
+
+A café website combining editorial typography, warm aesthetics and a modern layout.
+
+**Focus:** Branding · Layout
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html)
 
 </td>
 </tr>
@@ -67,16 +91,11 @@ Coffee shop website with a warm aesthetic and modern layout.
 ### GitHub Overview
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-stats-extended.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=C4B5F5&text_color=EEF0FF&icon_color=8FA8E0" width="100%" alt="GitHub Statistics"/>
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=C4B5F5&fire=8FA8E0&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" width="100%" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
+
+<img src="https://github-stats-extended.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=C4B5F5&text_color=EEF0FF&icon_color=8FA8E0" width="49%" alt="GitHub Statistics"/>
+
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=C4B5F5&fire=8FA8E0&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" width="49%" alt="GitHub Streak"/>
+
 </div>
 
 ---
