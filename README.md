@@ -1,10 +1,11 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,45:2A2F6B,100:5B3FA0&height=190&section=header&text=MALAIKA%20AIMAN&fontSize=43&fontColor=EEF0FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=59&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman"/>
 
 **Frontend Developer | Software Engineering Student**
 
-Building responsive websites with clean interfaces and practical functionality.
+Building responsive web experiences with thoughtful interfaces and practical functionality.
 
 [Portfolio](https://malaika-aiman.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/) · [Email](mailto:malaikaaiman.offical@gmail.com)
 
@@ -14,20 +15,27 @@ Building responsive websites with clean interfaces and practical functionality.
 
 ### About
 
-Software Engineering student at Virtual University, Pakistan, focused on frontend development, programming and creating practical web experiences.
+I'm a Software Engineering student at Virtual University, Pakistan, with an interest in frontend development, UI design, and software development.
 
-**Currently exploring:** JavaScript · Responsive Design · C++ · OOP
+I enjoy translating ideas into functional interfaces and improving my programming skills through hands-on projects.
 
-### Tech Stack
+**Currently focusing on:** JavaScript · Responsive Web Design · C++ · Object-Oriented Programming
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-0F1B33?style=flat-square&logo=html5&logoColor=C4B5F5"/>
-<img src="https://img.shields.io/badge/CSS3-0F1B33?style=flat-square&logo=css3&logoColor=C4B5F5"/>
-<img src="https://img.shields.io/badge/JavaScript-0F1B33?style=flat-square&logo=javascript&logoColor=C4B5F5"/>
+### Technical Skills
+
+**Frontend Development**
+
+<img src="https://img.shields.io/badge/HTML5-0F1B33?style=flat-square&logo=html5&logoColor=C4B5F5"/> <img src="https://img.shields.io/badge/CSS3-0F1B33?style=flat-square&logo=css3&logoColor=C4B5F5"/> <img src="https://img.shields.io/badge/JavaScript-0F1B33?style=flat-square&logo=javascript&logoColor=C4B5F5"/>
+
+**Programming**
+
 <img src="https://img.shields.io/badge/C++-0F1B33?style=flat-square&logo=cplusplus&logoColor=C4B5F5"/>
-<img src="https://img.shields.io/badge/Git-0F1B33?style=flat-square&logo=git&logoColor=C4B5F5"/>
-<img src="https://img.shields.io/badge/GitHub-0F1B33?style=flat-square&logo=github&logoColor=C4B5F5"/>
-</p>
+
+**Development Tools**
+
+<img src="https://img.shields.io/badge/Git-0F1B33?style=flat-square&logo=git&logoColor=C4B5F5"/> <img src="https://img.shields.io/badge/GitHub-0F1B33?style=flat-square&logo=github&logoColor=C4B5F5"/>
+
+---
 
 ### Featured Projects
 
@@ -43,13 +51,16 @@ Software Engineering student at Virtual University, Pakistan, focused on fronten
 
 </div>
 
-A modern real estate website featuring structured property presentation and a clean interface.
+A real estate website focused on structured property presentation and a clean browsing experience.
 
 **Focus:** Layout · UI Design
 
-[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html)
+[Live Demo ↗](https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html)
+
+[Source Code](https://github.com/malaika-aiman/web-development-projects/tree/Main/07-RealEstate)
 
 </td>
+
 <td width="33%" valign="top">
 
 <div align="center">
@@ -60,13 +71,16 @@ A modern real estate website featuring structured property presentation and a cl
 
 </div>
 
-An elegant beauty studio website with a soft visual identity and service-focused navigation.
+A beauty studio website featuring a refined visual identity and service-focused navigation.
 
 **Focus:** Visual Design · UI
 
-[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html)
+[Live Demo ↗](https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html)
+
+[Source Code](https://github.com/malaika-aiman/web-development-projects/tree/Main/09-BlushUp)
 
 </td>
+
 <td width="33%" valign="top">
 
 <div align="center">
@@ -77,15 +91,27 @@ An elegant beauty studio website with a soft visual identity and service-focused
 
 </div>
 
-A café website combining editorial typography, warm aesthetics and a modern layout.
+A café website combining editorial typography, warm aesthetics, and a modern layout.
 
 **Focus:** Branding · Layout
 
-[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html)
+[Live Demo ↗](https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html)
+
+[Source Code](https://github.com/malaika-aiman/web-development-projects/tree/Main/12-BrewAndBloomCoffeeShop/Brew_and_Bloom)
 
 </td>
 </tr>
 </table>
+
+**More Projects**
+
+[Explore Web Development Projects](https://github.com/malaika-aiman/web-development-projects)
+
+[Explore C++ & OOP Projects](https://github.com/malaika-aiman/CPP-OOP-Projects)
+
+[Explore Graphic Design Work](https://github.com/malaika-aiman/graphic-design-portfolio)
+
+---
 
 ### GitHub Overview
 
@@ -93,7 +119,7 @@ A café website combining editorial typography, warm aesthetics and a modern lay
 
 <img src="https://github-stats-extended.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=C4B5F5&text_color=EEF0FF&icon_color=8FA8E0" width="49%" alt="GitHub Statistics"/>
 
-<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=C4B5F5&fire=8FA8E0&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" width="49%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=C4B5F5&fire=8FA8E0&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" width="49%" alt="GitHub Contribution Streak"/>
 
 </div>
 
