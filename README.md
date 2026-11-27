@@ -1,158 +1,82 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Designer;Building+Clean+%26+Responsive+Web+Experiences" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,45:2A2F6B,100:5B3FA0&height=190&section=header&text=MALAIKA%20AIMAN&fontSize=43&fontColor=EEF0FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=59&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman"/>
 
-<p>
-  <b>Software Engineering Student | Frontend Developer</b>
-</p>
+**Frontend Developer | Software Engineering Student**
 
-<p>
-  I build responsive, user-friendly and visually refined web experiences.
-</p>
+I build responsive websites with a focus on clean layouts, thoughtful design and functionality.
 
-<p>
-  <a href="https://malaika-aiman.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=flat-square" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/malaika-aiman">
-    <img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[Portfolio](https://malaika-aiman.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/) · [Email](mailto:malaikaaiman.offical@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+### About
 
-I'm a Software Engineering student and frontend developer
-interested in building clean, responsive and interactive
-web applications.
+I'm a Software Engineering student at Virtual University, Pakistan, interested in frontend development and building websites that are both practical and visually clear.
 
-I enjoy turning ideas into functional digital experiences
-with a focus on usability, visual consistency and
-maintainable code.
+Currently working with JavaScript, improving my programming fundamentals and exploring object-oriented programming.
 
-- Developing responsive websites and user interfaces
-- Practicing frontend development through hands-on projects
-- Exploring programming fundamentals and OOP with C++
-- Improving my design and problem-solving skills
-
----
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>HTML5, CSS3, JavaScript</td>
-  </tr>
-  <tr>
-    <td><b>Programming</b></td>
-    <td>C++, Object-Oriented Programming</td>
-  </tr>
-  <tr>
-    <td><b>Design</b></td>
-    <td>UI Design, Responsive Design, Typography</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git, GitHub, Canva</td>
-  </tr>
-</table>
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Web Development Projects</h3>
-      <p>
-        A collection of responsive websites and frontend
-        projects built while exploring modern web design
-        and development.
-      </p>
-      <p>
-        <b>Focus:</b> HTML, CSS, JavaScript, Responsive UI
-      </p>
-      <a href="https://github.com/malaika-aiman/web-development-projects">
-        View Repository →
-      </a>
-    </td>
-    <td width="50%">
-      <h3>C++ OOP Projects</h3>
-      <p>
-        Practical programming projects demonstrating
-        object-oriented programming concepts and
-        structured problem-solving.
-      </p>
-      <p>
-        <b>Focus:</b> C++, OOP, Programming Fundamentals
-      </p>
-      <a href="https://github.com/malaika-aiman/CPP-OOP-Projects">
-        View Repository →
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Graphic Design Portfolio</h3>
-      <p>
-        Creative design work including logos, posters,
-        branding and visual compositions.
-      </p>
-      <p>
-        <b>Focus:</b> Visual Design, Branding, Canva
-      </p>
-      <a href="https://github.com/malaika-aiman/graphic-design-portfolio">
-        View Repository →
-      </a>
-    </td>
-    <td width="50%">
-      <h3>C++ Programming Practice</h3>
-      <p>
-        Programming exercises and practical work focused
-        on strengthening logic and coding fundamentals.
-      </p>
-      <p>
-        <b>Focus:</b> C++, Problem Solving
-      </p>
-      <a href="https://github.com/malaika-aiman/cpp-programming">
-        View Repository →
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Currently Learning
-
-- JavaScript development
-- Responsive and accessible interfaces
-- Clean code and project organization
-- Software engineering fundamentals
-
----
-
-## Connect With Me
+### Tech Stack
 
 <p>
-  <a href="https://malaika-aiman.vercel.app">
-    Portfolio
-  </a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/malaika-aiman">
-    GitHub
-  </a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/malaika-aiman">
-    LinkedIn
-  </a>
+<img src="https://img.shields.io/badge/HTML5-0F1B33?style=flat-square&logo=html5&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/CSS3-0F1B33?style=flat-square&logo=css3&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/JavaScript-0F1B33?style=flat-square&logo=javascript&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/C++-0F1B33?style=flat-square&logo=cplusplus&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/Git-0F1B33?style=flat-square&logo=git&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/GitHub-0F1B33?style=flat-square&logo=github&logoColor=C4B5F5"/>
 </p>
 
-<p align="center">
-  <sub>Building, learning and improving — one project at a time.</sub>
-</p>
+### Selected Projects
+
+**01. Nestore — Real Estate Website**
+
+A property-focused website with organized listings, a structured layout and a clean browsing experience.
+
+`HTML` `CSS` `JavaScript`
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html)
+
+---
+
+**02. BlushUp — Beauty Studio Website**
+
+A beauty studio website featuring service-focused sections, a soft visual identity and responsive layouts.
+
+`HTML` `CSS` `JavaScript`
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html)
+
+---
+
+**03. Brew & Bloom — Coffee Shop Website**
+
+A café website built around warm tones, editorial typography and a clean presentation of its content.
+
+`HTML` `CSS` `JavaScript`
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html)
+
+---
+
+### GitHub Overview
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=C4B5F5&text_color=EEF0FF&icon_color=8FA8E0" width="49%" alt="GitHub Statistics"/>
+
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=C4B5F5&fire=8FA8E0&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" width="49%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[Portfolio](https://malaika-aiman.vercel.app/) · [GitHub](https://github.com/malaika-aiman) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/)
+
+*Learning through building.*
+
+</div>
