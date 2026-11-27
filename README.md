@@ -1,119 +1,82 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Malaika Aiman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,45:2A2F6B,100:5B3FA0&height=190&section=header&text=MALAIKA%20AIMAN&fontSize=43&fontColor=EEF0FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FRONTEND%20DEVELOPMENT&descSize=12&descAlignY=59&descColor=C4B5F5&animation=fadeIn" width="100%" alt="Malaika Aiman"/>
 
-### Frontend Developer | Software Engineering Student
+**Frontend Developer | Software Engineering Student**
 
-<p>
-  <i>Building responsive, user-friendly and visually appealing web experiences.</i>
-</p>
+I build responsive websites with a focus on clean layouts, thoughtful design and functionality.
 
-<p>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9b59b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/malaika-aiman">
-    <img src="https://img.shields.io/badge/GitHub-Profile-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[Portfolio](https://malaika-aiman.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/) · [Email](mailto:malaikaaiman.offical@gmail.com)
 
 </div>
 
 ---
 
-## ✦ About Me
+### About
 
-I'm a Software Engineering student and frontend developer passionate about creating clean, responsive, and interactive web applications.
+I'm a Software Engineering student at Virtual University, Pakistan, interested in frontend development and building websites that are both practical and visually clear.
 
-I enjoy transforming ideas and designs into functional digital experiences while focusing on usability, accessibility, and maintainable code.
+Currently working with JavaScript, improving my programming fundamentals and exploring object-oriented programming.
 
-- ✦ Building responsive web applications
-- ✦ Exploring modern frontend technologies
-- ✦ Practicing problem-solving with C++
-- ✦ Continuously learning and improving through projects
+### Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-0F1B33?style=flat-square&logo=html5&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/CSS3-0F1B33?style=flat-square&logo=css3&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/JavaScript-0F1B33?style=flat-square&logo=javascript&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/C++-0F1B33?style=flat-square&logo=cplusplus&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/Git-0F1B33?style=flat-square&logo=git&logoColor=C4B5F5"/>
+<img src="https://img.shields.io/badge/GitHub-0F1B33?style=flat-square&logo=github&logoColor=C4B5F5"/>
+</p>
+
+### Selected Projects
+
+**01. Nestore — Real Estate Website**
+
+A property-focused website with organized listings, a structured layout and a clean browsing experience.
+
+`HTML` `CSS` `JavaScript`
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/07-RealEstate/nestore.html)
 
 ---
 
-## ✦ Tech Stack
+**02. BlushUp — Beauty Studio Website**
+
+A beauty studio website featuring service-focused sections, a soft visual identity and responsive layouts.
+
+`HTML` `CSS` `JavaScript`
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/09-BlushUp/index.html)
+
+---
+
+**03. Brew & Bloom — Coffee Shop Website**
+
+A café website built around warm tones, editorial typography and a clean presentation of its content.
+
+`HTML` `CSS` `JavaScript`
+
+[View Live Project ↗](https://malaika-aiman.github.io/web-development-projects/12-BrewAndBloomCoffeeShop/Brew_and_Bloom/index.html)
+
+---
+
+### GitHub Overview
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,git,github,vscode&theme=dark" />
+<img src="https://github-stats-extended.vercel.app/api?username=malaika-aiman&show_icons=true&hide_border=true&bg_color=0F1B33&title_color=C4B5F5&text_color=EEF0FF&icon_color=8FA8E0" width="49%" alt="GitHub Statistics"/>
+
+<img src="https://streak-stats.demolab.com?user=malaika-aiman&hide_border=true&background=0F1B33&ring=C4B5F5&fire=8FA8E0&currStreakLabel=C4B5F5&sideLabels=EEF0FF&currStreakNum=EEF0FF&sideNums=EEF0FF&dates=9CA3AF" width="49%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## ✦ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌸 Web Development Projects
-
-A collection of responsive websites and interactive web applications built with modern frontend technologies.
-
-<a href="https://github.com/malaika-aiman/web-development-projects">
-  <img src="https://img.shields.io/badge/Explore_Projects-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%">
-
-### 💻 C++ OOP Projects
-
-A collection of C++ projects demonstrating object-oriented programming concepts and programming fundamentals.
-
-<a href="https://github.com/malaika-aiman/CPP-OOP-Projects">
-  <img src="https://img.shields.io/badge/Explore_Projects-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 Graphic Design Portfolio
-
-Creative work including branding, logos, promotional graphics, and visual design projects.
-
-<a href="https://github.com/malaika-aiman/graphic-design-portfolio">
-  <img src="https://img.shields.io/badge/View_Portfolio-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%">
-
-### ✨ More Projects
-
-Explore my repositories to see more of my learning journey, experiments, and development projects.
-
-<a href="https://github.com/malaika-aiman?tab=repositories">
-  <img src="https://img.shields.io/badge/All_Repositories-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ Let's Connect
-
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-9b59b6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[Portfolio](https://malaika-aiman.vercel.app/) · [GitHub](https://github.com/malaika-aiman) · [LinkedIn](https://www.linkedin.com/in/malaika-aiman/)
 
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-9b59b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<i>✨ Learning, building, and creating something better every day.</i>
+*Learning through building.*
 
 </div>
